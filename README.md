@@ -1,6 +1,6 @@
 # Job Searching App
 
-A new Flutter project.
+Assignment for Application and Development
 
 ## Getting Started
 
